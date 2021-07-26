@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { ArticleDate } from "./ArticleDate";
 
 const PostMeta = ({ title, image, date, author }) => {
@@ -6,13 +5,7 @@ const PostMeta = ({ title, image, date, author }) => {
   return (
     <>
       <div className="space-y-12">
-        <Image
-          src={image}
-          alt={`Cover image for article named ${title}`}
-          layout="responsive"
-          width={768}
-          height={404}
-        />
+        <img src={image} alt={`Cover image for article named ${title}`} />
         <h1 className="text-4xl font-bold text-gray-900">{title}</h1>
         {/* Author Section */}
         <div className="py-6 border-t border-b flex justify-start items-center space-x-8">
