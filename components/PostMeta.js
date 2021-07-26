@@ -1,8 +1,7 @@
 import Image from "next/image";
-import { parseISO, format } from "date-fns";
+import { ArticleDate } from "./ArticleDate";
 
 const PostMeta = ({ title, image, date, author }) => {
-  const dateToDisplay = parseISO(date);
 
   return (
     <>
@@ -26,12 +25,7 @@ const PostMeta = ({ title, image, date, author }) => {
             <p className="font-bold text-lg">{author.name}</p>
             <p className="text-sm text-gray-500">
               Published on{" "}
-              <time
-                dateTime={dateToDisplay}
-                className="font-semibold text-gray-500"
-              >
-                {format(dateToDisplay, "LLLL d, yyyy")}
-              </time>
+              <ArticleDate date={date} />
             </p>
           </div>
         </div>
