@@ -2,15 +2,18 @@
 title: "Why I Want To Work at Hashnode"
 description: "Thanks for giving me this opportunity to interview! Here is why I want to work at Hashnode..."
 coverImage: "/assets/blog/why-hashnode/hashnode_header.jpeg"
-date: "2021-07-25T05:35:07.322Z"
+date: "2021-07-28T05:35:07.322Z"
 author:
   name: Braydon Coyer
   picture: "/assets/blog/author/avatar.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+I do my best work when I understand the scope of the problem or feature and have the liberty to explore, solve and create. Autonomy is important, but not as important as a collaborative culture - everyone has something to learn, and I believe it’s each developer’s responsibility to both share their expertise and be taught from others.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Why do I want to work at Hashnode? The answer is simple, actually. Individuals prove to be the most happy and productive when they are contributing to something they believe in.
 
-Lorem Ipsum
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+This goes for me and Hashnode. I use Hashnode almost daily - reading content from a vibrant community and posting my own articles through the service as well.
+
+Coming from a background in consulting, I understand how to develop a product that supports thousands of users while interfacing directly with a client to understand feature requirements.
+
+I love Hashnode. It’s a platform that I admire and nothing would give me more purpose than to have the opportunity to help evolve the service I love using!

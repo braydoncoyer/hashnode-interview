@@ -1,16 +1,53 @@
 ---
 title: "Here is my resume"
-description: "Here is my resume in blog-form. Enjoy!"
-coverImage: "/assets/blog/why-hashnode/hashnode_header.jpeg"
+description: "Thanks for taking time to consider my application! Here's a blog-version of my resume. Enjoy!"
+coverImage: "/assets/blog/resume/resume_hashnode_banner.jpeg"
 date: "2021-07-26T05:35:07.322Z"
 author:
   name: Braydon Coyer
   picture: "/assets/blog/author/avatar.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Thanks for taking time to consider my application!
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Here's a blog-version of my resume!
 
-Lorem Ipsum
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## Work Experience
+
+---
+
+### Senior Full Stack Engineer
+
+#### Cognizant, Plano TX - May 2019 - Present
+
+1. Architect and develop full stack RESTful micro-services using Netflix OSS, Java, Spring Boot, SQL, MongoDB, Angular and React.
+2. Spearheaded information architecture and developed a reusable UI component library for healthcare clients.
+3. Lead development teams using extreme programming principles such as agile, test-driven development and paired programming.
+4. Lead over 200 developers through a monthly enablement process training them for client work on the Digital Engineering stack.
+
+### UI Developer
+
+#### projekt202, Addison TX - September 2018 - May 2019
+
+1. Helped lead development of a reusable UI component library, interfacing heavily with multi-million dollar airline client for requirements.
+2. Responsible for developing solutions for multi-million dollar enterprise clients, utilizing Angular 7 for the frontend, and creating RESTful APIs using Java Spring Boot.
+
+### Mobile Developer
+
+#### Major 4 Apps, Self Employed - August 2011 - October 2018
+
+1. Develop custom applications for clients.
+2. Design, develop, test and support mobile applications on iOS and Android platforms.
+3. Created 5 iOS and Android games for personal App Store account.
+4. Mobile game ranked in the top 200 on the Amazon App Store.
+5. Mobile game featured in the top 20 GameSalad games on the Tizen App Store.
+6. Mobile games featured as New and Noteworthy on the iOS App Store.
+
+---
+
+## Certifications
+
+- CIW Advanced HTML5 and CSS3 Specialist
+- CIW User Interface Designer
+- CIW Site Development Associate
+- MTA Exam 98-361: Software Development Fundamentals

@@ -1,7 +1,8 @@
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
-import { Layout } from "../../components/Layout";
+import { ContentLayout } from "../../components/ContentLayout";
 import { PostContent } from '../../components/PostContent';
+import { PageLayout } from "../../components/PageLayout";
 import { markdownToHtml, getPostBySlug, getAllPosts } from "../../lib/posts-api";
 import { PostMeta } from "../../components/PostMeta";
 
@@ -11,23 +12,25 @@ export default function Post({ post }) {
     return <ErrorPage statusCode={404} />;
   }
   return (
-    <Layout>
+    <>
       {router.isFallback ? (
         <p>LOADING...</p>
       ) : (
-        <>
-          <article className="mb-32 space-y-12">
+        <PageLayout title={post.title}>
+          <ContentLayout>
+            <article className="mb-32 space-y-12">
               <PostMeta
                 title={post.title}
                 image={post.coverImage}
                 date={post.date}
                 author={post.author}
-            />
-            <PostContent content={post.content}/>
-          </article>
-        </>
+              />
+              <PostContent content={post.content} />
+            </article>
+          </ContentLayout>
+        </PageLayout>
       )}
-    </Layout>
+    </>
   );
 }
 
@@ -41,8 +44,6 @@ export async function getStaticProps({ params }) {
     "author",
     "coverImage",
   ]);
-
-  console.log(post)
 
   const content = await markdownToHtml(post.content || "");
   

@@ -1,17 +1,13 @@
 import Link from "next/link";
-import { parseISO, format } from "date-fns";
 import { ArticleDate } from "./ArticleDate";
 
 const ArticleList = ({ posts = [] }) => {
-  // const dateToDisplay = parseISO(date);
 
   return (
-    <ul className="md:grid md:grid-cols-2 gap-8">
+    <ul className="md:grid md:grid-cols-2 gap-16 space-y-12 md:space-y-0">
       {posts.map((post) => (
         <li className="space-y-3" key={post.title}>
-          <div>
-            <img className="rounded-lg" src={post.coverImage} />
-          </div>
+          <img className="rounded-lg mb-3 min-h-[225px]" src={post.coverImage} />
           <Link href={`/posts/${post.slug}`}>
             <a className="text-4xl font-bold text-gray-900">{post.title}</a>
           </Link>

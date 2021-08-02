@@ -1,7 +1,7 @@
 import Head from "next/head";
-import { Navbar } from './Navbar';
+import { Navbar } from "./Navbar";
 
-const Layout = (props) => (
+const PageLayout = (props) => (
   <>
     <Head>
       <title>{props.title || ""}</title>
@@ -13,8 +13,8 @@ const Layout = (props) => (
     </Head>
 
     <Navbar />
-    <div className="max-w-4xl mx-auto px-4 mt-8">{props.children}</div>
+    <div>{props.children}</div>
   </>
 );
 
-export  { Layout };
+export { PageLayout };
